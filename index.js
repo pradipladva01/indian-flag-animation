@@ -27,9 +27,4 @@ window.addEventListener("load" , () => {
     
 });
 
-// ((ashokaChakraColumns / (flagCenterFrom / 5)) - 0.05)
-
-// console.log((ashokaChakraColumns / (flagCenterFrom / 5)) - 0.05 )
-
-
 
